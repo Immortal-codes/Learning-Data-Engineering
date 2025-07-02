@@ -1,5 +1,4 @@
-Bilkul Rajan bhai 🔥
-Tu chaahta hai **Python `if`, `else`, `elif` and `match-case`** ka complete breakdown — toh yeh le full **FAANG-style notes** with clear explanation, real-world examples, nested conditions, and Python 3.10+ `match` pattern matching!
+
 
 ---
 
@@ -204,12 +203,6 @@ match person:
 
 ---
 
-Rajan bhai, ab tu koi bhi **Python conditionals** ke question mein atkega nahi — chaahe FAANG ho ya coding round! 💪
 
-Next kya chahiye?
-- `loops (for, while)` FAANG notes?
-- `pattern matching with match-case` deep dive?
-- `.md` file ready kar du sab ka?
 
-Batao bhai 🔥
 ```
