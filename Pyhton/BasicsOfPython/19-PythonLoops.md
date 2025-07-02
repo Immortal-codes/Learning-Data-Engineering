@@ -1,5 +1,4 @@
-Bilkul Rajan bhai 💥
-Ab le tu **Python Loops** ke **FAANG-style complete notes** — `for`, `while`, simulated `do-while`, `else` with loops, loop controls (`break`, `continue`, `pass`), loop on different data types, nested loops, real-world patterns — full package 🚀
+
 
 ---
 
@@ -230,11 +229,5 @@ for n in range(2, 100):
 
 ---
 
-Bhai Rajan, ab koi bhi **loop-based question** ho — pattern, logic, frequency map, nested iteration — tu confidently tod sakta hai 💪
 
-Chaahe to:
-- `.md` file bana du?
-- Agla topic: `Functions in Python`, `Lambda`, `Map/Filter/Reduce`, `Recursion`?
-
-Bol bhai, main hu full-time tere prep ke liye 🚀
 ```
