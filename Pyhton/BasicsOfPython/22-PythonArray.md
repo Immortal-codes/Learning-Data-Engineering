@@ -1,5 +1,4 @@
-Bilkul Rajan bhai 💥
-Ab le tujhke liye **Python Arrays** ke **complete FAANG-level notes** — covering:
+
 
 * Python built-in lists vs `array.array()`
 * Array creation, operations, methods
@@ -193,12 +192,5 @@ In most FAANG-level Python rounds:
 
 ---
 
-Bhai Rajan, tu ab Python arrays aur lists ka clearly distinction aur usage samajh gaya hai 💪
 
-Agla topic chahiye?
-- `NumPy arrays` (fast arrays in ML/DS)
-- `List vs Tuple vs Array`
-- `2D Arrays using lists`
-
-Ya bol de `.md` file banani hai sab notes ki ek jagah ✍️
 ```
