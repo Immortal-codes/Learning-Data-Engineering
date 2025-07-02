@@ -1,5 +1,4 @@
-Bhai Rajan 🔥
-Ab deta hoon **Python Sets – FAANG-level full notes** — bilkul **crisp, powerful, interview-ready**, with practical use-cases, comparisons, pitfalls, and examples. Zero bakwaas. 
+
 
 ---
 
@@ -413,11 +412,5 @@ print(a)  # {1, 4}
 
 ---
 
-Bhai, ab koi confusion nahi hoga set joins mein — ye notes tu repo, Notion ya `.md` me daalke **direct revise** kar sakta hai 🔥
 
-Chaahe to:
-- `.md` file ready bana du?
-- Agla topic chahiye `Python Dictionary Full Notes` FAANG-level mein?
-
-Bol bhai 💪
 ```
