@@ -1,0 +1,68 @@
+📚 FREE Data Engineering Roadmap – Step-by-Step List (Hindi + Best Quality)
+
+1. Python Basics (Week 1–2)
+Topics: Variables, loops, functions, conditionals, file handling
+Resource: Python in Hindi – CodeWithHarry
+Language: ✅ Hindi
+2. Pandas Library (Week 2–3)
+Topics: DataFrames, filtering, grouping, merging, cleaning
+Resource: Pandas in Hindi – Geeky Shows
+Language: ✅ Hindi
+3. SQL (Structured Query Language) (Week 3–4)
+Topics: SELECT, JOIN, GROUP BY, subqueries, window functions
+Resource: SQL in Hindi – Apna College
+Language: ✅ Hindi
+4. Linux & Bash (Week 5)
+Topics: Terminal commands, navigation, crontab, file permissions
+Resource: Linux in Hindi – Geeky Shows
+Language: ✅ Hindi
+5. Git & GitHub (Week 6)
+Topics: Git init, commit, push, pull, branches, GitHub hosting
+Resource: Git in Hindi – CodeWithHarry
+Language: ✅ Hindi
+6. Docker (Week 7)
+Topics: Dockerfile, images, containers, volumes, docker-compose
+Resource: Docker in Hindi – WsCube Tech
+Language: ✅ Hindi
+7. Apache Airflow (Week 8)
+Topics: DAGs, scheduling, operators, dependencies, pipelines
+Resource: Airflow Crash Course – Data With Marc
+Language: ❗English (no high-quality Hindi available)
+8. Apache Spark / PySpark (Week 9)
+Topics: Big data concepts, RDDs, DataFrames, transformations
+Resource: Spark in Hindi – WsCube Tech
+Language: ✅ Hindi
+9. Cloud Platforms – GCP or AWS (Week 10)
+Topics: Storage buckets, compute instances, BigQuery, IAM
+GCP Resource: GCP in Hindi – WsCube Tech
+AWS Resource: AWS in Hindi – WsCube Tech
+Language: ✅ Hindi
+10. Project Building (Week 11–12)
+Build real-world projects like:
+YouTube Data Pipeline (Scrape → Store → Airflow → Dashboard)
+Sales Data ETL (CSV → Clean with Pandas → Load to DB)
+Project Ideas: Data Projects – Data With Marc
+Language: ❗English (project-level Hindi resources rare)
+11. Dashboarding (Bonus – Week 13)
+Tool: Power BI (for learning, real use case = Metabase/Superset)
+Resource: Power BI in Hindi – WsCube Tech
+Language: ✅ Hindi
+12. Resume + GitHub + Deployment (Week 14–16)
+Create a strong GitHub profile with:
+Clean project folders
+Readme files
+Architecture diagrams
+Resource: GitHub Projects – CodeWithHarry
+Language: ✅ Hindi
+✅ Bonus Free Tools to Use During Learning
+
+Google Cloud Platform (GCP): https://cloud.google.com/free
+GitHub: https://github.com
+Metabase (Dashboard Tool): https://www.metabase.com/
+Docker: https://www.docker.com/
+Render (Deploy Pipelines): https://render.com
+Railway: https://railway.app
+Ye roadmap tu Word me paste karke daily tick bhi kar sakta hai.
+Agar chahe to bol, me ise Notion ya Google Sheet format me bhi de du, project tracking ke saath.
+
+Kya bana du ab?
